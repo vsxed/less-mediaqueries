@@ -6,7 +6,7 @@
 
 I just saw that [Rafal Bromirski](http://paranoida.com) created media queries for SCSS.
 
-So i just wanted to port this for LESS, but with another usage.
+So i just wanted to port this for LESS, but with another syntax.
 
 ### What is it?
 
