@@ -7,7 +7,7 @@
 		color: green;
 	}
 
-	@media @iphone5 {
+	@media @hdpi {
 		color: blue;
 	}
 }
@@ -31,5 +31,11 @@
 .normal {
 	@media screen and (min-width: 320px) and (max-width: 450px) {
 		color:grey;
+	}
+}
+
+.multiple-presets {
+	@media @hdpi,@mdpi {
+		color: hotpink;
 	}
 }

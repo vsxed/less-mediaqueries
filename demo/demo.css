@@ -6,7 +6,7 @@
     color: green;
   }
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71) {
+@media only screen and (-webkit-min-device-pixel-ratio:  1.3 ) and (-moz-min-device-pixel-ratio:  1.3 ) and (-o-min-device-pixel-ratio:  1.3 ) and (min-resolution:  125 dpi) and (min-resolution:  1.3 dppx) {
   .test-class {
     color: blue;
   }
@@ -32,5 +32,10 @@
 @media screen and (min-width: 320px) and (max-width: 450px) {
   .normal {
     color: grey;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio:  1.3 ) and (-moz-min-device-pixel-ratio:  1.3 ) and (-o-min-device-pixel-ratio:  1.3 ) and (min-resolution:  125 dpi) and (min-resolution:  1.3 dppx), only screen and (-webkit-min-device-pixel-ratio:  1 ) and (-moz-min-device-pixel-ratio:  1 ) and (-o-min-device-pixel-ratio:  1 ) and (min-resolution:  96 dpi) and (min-resolution:  1 dppx), only screen and (device-width: 320px) and (device-height: 480px) {
+  .multiple-presets {
+    color: hotpink;
   }
 }
