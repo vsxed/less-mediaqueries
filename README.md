@@ -29,39 +29,39 @@ Requirements:
 
 Values
 ---
-@hdpi-value            (HDPI pixel ratio)
-@mdpi-value            (MDPI pixel ratio)
-@ldpi-value            (LDPI pixel ratio)
+@hdpi-value                  (HDPI pixel ratio)
+@mdpi-value                  (MDPI pixel ratio)
+@ldpi-value                  (LDPI pixel ratio)
 ---
 
 Presets
 ---
-@hdpi            (HDPI Android devices)
-@mdpi            (MDPI Android devices)
-@ldpi            (LDPI Android devices)
+@hdpi                        (HDPI Android devices)
+@mdpi                        (MDPI Android devices)
+@ldpi                        (LDPI Android devices)
 ---
-@wp            (Windows Phone 7 and 8 devices with a resolution of 480x800 px)
-@wp-hdpi            (New gen Windows Phone 8 HDPI devices with a min device width of 720px)
+@wp                          (Windows Phone 7 and 8 devices with a resolution of 480x800 px)
+@wp-hdpi                     (New gen Windows Phone 8 HDPI devices with a min device width of 720px)
 ---
-@ iphone            iPhone (2, 3G, 3GS) landscape & portrait)
-@ iphone-landscape            (iPhone (2, 3G, 3GS) only landscape)
+@ iphone                     (iPhone (2, 3G, 3GS) landscape & portrait)
+@ iphone-landscape           (iPhone (2, 3G, 3GS) only landscape)
 @ iphone-portrait            (iPhone (2, 3G, 3GS) only portrait)
 ---
-@ iphone4            (iPhone (4, 4S) landscape & portrait)
-@ iphone4-landscape            (iPhone (4, 4S) only landscape)
-@ iphone4-portrait            (iPhone (4, 4S) only portrait)
+@ iphone4                    (iPhone (4, 4S) landscape & portrait)
+@ iphone4-landscape          (iPhone (4, 4S) only landscape)
+@ iphone4-portrait           (iPhone (4, 4S) only portrait)
 ---
-@ iphone5            (iPhone (5) landscape & portrait)
-@ iphone5-landscape            (iPhone (5) only landscape)
-@ iphone5-portrait            (iPhone (5) only portrait)
+@ iphone5                    (iPhone (5) landscape & portrait)
+@ iphone5-landscape          (iPhone (5) only landscape)
+@ iphone5-portrait           (iPhone (5) only portrait)
 ---
-@ ipad            (iPad (1, 2, Mini) landscape & portrait)
-@ ipad-landscape            (iPad (1, 2, Mini) only landscape)
-@ ipad-portrait            (iPad (1, 2, Mini) only portrait)
+@ ipad                       (iPad (1, 2, Mini) landscape & portrait)
+@ ipad-landscape             (iPad (1, 2, Mini) only landscape)
+@ ipad-portrait              (iPad (1, 2, Mini) only portrait)
 ---
-@ ipad-retina            (iPad (3, 4) landscape & portrait)
-@ ipad-retina-landscape            iPad (3, 4) only landscape)
-@ ipad-retina-portrait            (iPad (3, 4) only portrait)
+@ ipad-retina                (iPad (3, 4) landscape & portrait)
+@ ipad-retina-landscape      (iPad (3, 4) only landscape)
+@ ipad-retina-portrait       (iPad (3, 4) only portrait)
 ---
 ```
 ## How does it work?
